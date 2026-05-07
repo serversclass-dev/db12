@@ -1,0 +1,22 @@
+{
+  "mmaass": {
+    "username": "mmaass",
+    "password": "t48r75dAf3H2XNW",
+    "student_type": "أدبي",
+    "telegram_user_id": "7545461704",
+    "telegram_username": "hana_nuwara",
+    "telegram_first_name": "Hanaa",
+    "profile_photo_url": null,
+    "session_id": "28239f93-6263-47dd-af49-716f36d53215",
+    "created_at": "2026-05-07T18:27:30.686879",
+    "verified": true,
+    "last_login": "2026-05-07T18:27:34.135932",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "grammar",
+      "psychology"
+    ],
+    "server_num": 12
+  }
+}
