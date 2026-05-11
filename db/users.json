@@ -7,15 +7,16 @@
     "telegram_username": "hana_nuwara",
     "telegram_first_name": "Hanaa",
     "profile_photo_url": null,
-    "session_id": "89c3070d-b5cd-440a-96a7-7d4034cb7ad2",
+    "session_id": "497f9dbe-fbe0-49ca-b8ca-317e63d27300",
     "created_at": "2026-05-07T18:27:30.686879",
     "verified": true,
-    "last_login": "2026-05-08T19:57:31.113988",
+    "last_login": "2026-05-10T21:29:40.168755",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
       "grammar",
-      "psychology"
+      "psychology",
+      "sociology"
     ],
     "server_num": 12
   }
