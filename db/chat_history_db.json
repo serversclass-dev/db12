@@ -137,5 +137,78 @@
     "last_file": "p1.txt",
     "subject": "it",
     "saved_at": "2026-05-12T20:36:44.085500"
+  },
+  "thenaswauahgmailc__islamic": {
+    "username": "thenaswauahgmailc",
+    "subject_id": "islamic",
+    "messages": [
+      {
+        "role": "user",
+        "content": "اشرحلي درس العمرة 💔😭",
+        "timestamp": "2026-06-04T00:36:15.863072+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T00:36:17.231858+00:00"
+      },
+      {
+        "role": "user",
+        "content": "درس العمرة",
+        "timestamp": "2026-06-04T00:36:25.103525+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T00:36:26.480400+00:00"
+      },
+      {
+        "role": "user",
+        "content": "شرح درس الحج",
+        "timestamp": "2026-06-04T00:37:06.682120+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T00:37:08.043205+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "اشرحلي درس العمرة 💔😭",
+        "timestamp": "2026-06-04T00:36:15.863072+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T00:36:17.231858+00:00"
+      },
+      {
+        "role": "user",
+        "content": "درس العمرة",
+        "timestamp": "2026-06-04T00:36:25.103525+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T00:36:26.480400+00:00"
+      },
+      {
+        "role": "user",
+        "content": "شرح درس الحج",
+        "timestamp": "2026-06-04T00:37:06.682120+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T00:37:08.043205+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 6,
+    "last_file": "main.txt",
+    "subject": "islamic",
+    "saved_at": "2026-06-04T00:37:08.043261"
   }
 }
